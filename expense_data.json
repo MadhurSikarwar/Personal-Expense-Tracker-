@@ -1,0 +1,21 @@
+{
+    "transactions": [],
+    "categories": {
+        "expense": [
+            "Groceries",
+            "Rent",
+            "Transport",
+            "Dining",
+            "Utilities",
+            "Other"
+        ],
+        "income": [
+            "Salary",
+            "Bonus",
+            "Gifts",
+            "Other"
+        ]
+    },
+    "budgets": {},
+    "currency_symbol": "\u20b9"
+}
